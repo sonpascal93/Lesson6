@@ -1,0 +1,12 @@
+tests\1.inp
+tests\1.out
+tests\2.inp
+tests\2.out
+tests\3.inp
+tests\3.out
+tests\4.inp
+tests\4.out
+tests\5.inp
+tests\5.out
+tests\6.inp
+tests\6.out
